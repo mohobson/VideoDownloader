@@ -44,7 +44,7 @@ From web:
 https://pypi.org/project/pytube/
 </details>
 
-### **To run the script**
+### **To run the script:**
 
 <details>
 <summary>Mac OS</summary>  
