@@ -44,12 +44,12 @@ From web:
 https://pypi.org/project/pytube/
 </details>
 
-### **To run the script:**
+
 
 <details>
 <summary>Mac OS</summary>  
-Open Terminal  
-Navigate to the directory containing the script  
+1. Open Terminal  
+2. Navigate to the directory containing the script  
 Example:
 ```
 cd Documents/VideoDownloader
