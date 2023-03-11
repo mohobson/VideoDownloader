@@ -1,7 +1,7 @@
-### **To get the Video Downloader to work, you'll need to clone this repo, then make sure Python and Pytube are installed.**
+### **Steps to use download script and dependencies:**
 
 <details>
-<summary>1. Clone this repository</summary>
+<summary>**1. Clone the repository**</summary>
 
 Mac Terminal or Windows Command Prompt:  
 
@@ -16,13 +16,13 @@ Click "fork" at the top right
 </details>
 
 <details>
-<summary>2. Download Python</summary>
+<summary>**2. Download Python**</summary>
 
 https://www.python.org/downloads/
 </details>
 
 <details>
-<summary>3. Download the Pytube library</summary>
+<summary>**3. Download the Pytube library**</summary>
 
 Mac Terminal:  
 ```
@@ -42,4 +42,32 @@ or
 
 From web:  
 https://pypi.org/project/pytube/
+</details>
+
+### **To run the script**
+
+<details>
+<summary>**On Mac OS**</summary>
+1. Open Terminal  
+2. Navigate to the directory containing the script  
+Example:
+```
+cd Documents/VideoDownloader
+```
+3. Run the script
+```
+python main.py
+```
+
+<summary>**On Windows**</summary>
+1. Open Windows Command Prompt  
+2. Navigate to the folder containing the script  
+Example:
+```
+cd Documents\VideoDownloader
+```
+3. Run the script
+```
+python main.py
+```
 </details>
