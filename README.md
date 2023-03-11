@@ -48,8 +48,8 @@ https://pypi.org/project/pytube/
 
 <details>
 <summary>Mac OS</summary>  
-1. Open Terminal  
-2. Navigate to the directory containing the script  
+Open Terminal  
+Navigate to the directory containing the script  
 Example:
 ```
 cd Documents/VideoDownloader
