@@ -3,7 +3,7 @@
 <details>
 <summary>1. Clone this repository</summary>
 
-Mac Terminal or Windows Command Prompt:
+Mac Terminal or Windows Command Prompt:  
 
 ```
 git clone git@github.com:mohobson/VideoDownloader.git
@@ -11,7 +11,7 @@ git clone git@github.com:mohobson/VideoDownloader.git
 
 or
 
-From Github:
+From Github:  
 Click "fork" at the top right
 </details>
 
@@ -24,7 +24,7 @@ https://www.python.org/downloads/
 <details>
 <summary>3. Download the Pytube library</summary>
 
-Mac Terminal:
+Mac Terminal:  
 ```
 python get-pip.py
 pip install Pytube
@@ -32,7 +32,7 @@ pip install Pytube
 
 or
 
-Windows Command Prompt:
+Windows Command Prompt:  
 ```
 py get-pip.py
 py -m pip install Pytube
@@ -40,6 +40,6 @@ py -m pip install Pytube
 
 or
 
-From web:
+From web:  
 https://pypi.org/project/pytube/
 </details>
