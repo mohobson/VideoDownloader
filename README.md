@@ -1,13 +1,13 @@
-### To get the Video Downloader to work, you'll need to clone this repo, then make sure Python and Pytube are installed. 
+### **To get the Video Downloader to work, you'll need to clone this repo, then make sure Python and Pytube are installed.**
 
 <details>
 <summary>1. Clone this repository</summary>
 
 Mac Terminal or Windows Command Prompt:
 
-'''
+```
 git clone git@github.com:mohobson/VideoDownloader.git
-'''
+```
 
 or
 
@@ -25,18 +25,18 @@ https://www.python.org/downloads/
 <summary>3. Download the Pytube library</summary>
 
 Mac Terminal:
-'''
+```
 python get-pip.py
 pip install Pytube
-'''
+```
 
 or
 
 Windows Command Prompt:
-'''
+```
 py get-pip.py
 py -m pip install Pytube
-'''
+```
 
 or
 
