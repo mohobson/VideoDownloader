@@ -47,7 +47,7 @@ https://pypi.org/project/pytube/
 ### **To run the script**
 
 <details>
-<summary>Mac OS</summary>
+<summary>Mac OS</summary>  
 1. Open Terminal  
 2. Navigate to the directory containing the script  
 Example:
@@ -61,7 +61,7 @@ python main.py
 </details>
 
 <details>
-<summary>Windows</summary>
+<summary>Windows</summary>  
 1. Open Windows Command Prompt  
 2. Navigate to the folder containing the script  
 Example:
