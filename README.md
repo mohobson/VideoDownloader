@@ -1,7 +1,7 @@
 ### **Steps to use download script and dependencies:**
 
 <details>
-<summary>**1. Clone the repository**</summary>
+**<summary>1. Clone the repository</summary>**
 
 Mac Terminal or Windows Command Prompt:  
 
@@ -58,7 +58,9 @@ cd Documents/VideoDownloader
 ```
 python main.py
 ```
+</details>
 
+<details>
 <summary>**On Windows**</summary>
 1. Open Windows Command Prompt  
 2. Navigate to the folder containing the script  
