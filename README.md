@@ -2,7 +2,6 @@
 ### you'll need to clone this repo, then
 ### make sure Python and Pytube are installed. 
 
-<details>
 <summary>1. Clone this repository
 
     Mac Terminal or Windows Command Prompt:
@@ -38,4 +37,3 @@
     From web:
     https://pypi.org/project/pytube/
 
-</details>
