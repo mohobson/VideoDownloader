@@ -13,7 +13,7 @@
 
     From Github:
     Click "fork" at the top right
-<details>
+</details>
 
 <details>
 <summary>2. Download Python</summary>
