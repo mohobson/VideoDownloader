@@ -18,7 +18,7 @@ Click "fork" at the top right
 <details>
 <summary>2. Download Python</summary>
 
-https://www.python.org/downloads/
+(https://www.python.org/downloads/)
 </details>
 
 <details>
@@ -41,10 +41,10 @@ py -m pip install Pytube
 or
 
 From web:  
-https://pypi.org/project/pytube/
+(https://pypi.org/project/pytube/)
 </details>
 
-
+### **To run the script:**
 
 <details>
 <summary>Mac OS</summary>  
