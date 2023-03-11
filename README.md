@@ -1,4 +1,4 @@
-### **Steps to use download script and dependencies:**
+### **Steps to download script and dependencies:**
 
 <details>
 <summary>1. Clone the repository</summary>
