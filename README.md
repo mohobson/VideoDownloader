@@ -1,4 +1,4 @@
-### **Steps to download script and dependencies:**
+## **Steps to download script and dependencies:**
 
 <details>
 <summary>1. Clone the repository</summary>
@@ -18,7 +18,7 @@ Click "fork" at the top right
 <details>
 <summary>2. Download Python</summary>
 
-(https://www.python.org/downloads/)
+https://www.python.org/downloads/
 </details>
 
 <details>
@@ -41,13 +41,14 @@ py -m pip install Pytube
 or
 
 From web:  
-(https://pypi.org/project/pytube/)
+https://pypi.org/project/pytube/
 </details>
 
-### **To run the script:**
+## **To run the script:**
 
 <details>
-<summary>Mac OS</summary>  
+<summary>Mac OS</summary>
+
 1. Open Terminal  
 2. Navigate to the directory containing the script  
 Example:
@@ -61,7 +62,8 @@ python main.py
 </details>
 
 <details>
-<summary>Windows</summary>  
+<summary>Windows</summary>
+
 1. Open Windows Command Prompt  
 2. Navigate to the folder containing the script  
 Example:
